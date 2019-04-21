@@ -1,0 +1,19 @@
+{
+  "name": "sunvoxjs",
+  "version": "1.0.0",
+  "description": "mirror of Alexander Zolotov's sunvoxjs",
+  "main": "sunvox.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderofsalvation/sunvoxjs.git"
+  },
+  "author": "",
+  "license": "PROPRIETARY",
+  "bugs": {
+    "url": "https://github.com/coderofsalvation/sunvoxjs/issues"
+  },
+  "homepage": "https://github.com/coderofsalvation/sunvoxjs#readme"
+}
