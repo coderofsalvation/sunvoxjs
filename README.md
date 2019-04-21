@@ -9,3 +9,6 @@ This is a mirror of Alexander Zolotov's sunvoxjs lib, so it can be served over C
     <script src="https://unpkg.com/sunvoxjs/sunvox.js"/>
     <script src="https://unpkg.com/sunvoxjs/sunvox_lib_loader.js"/>
 
+## Demo / Docs
+
+[http://warmplace.ru/soft/sunvox/jsplay/](http://warmplace.ru/soft/sunvox/jsplay/)

@@ -1,6 +1,6 @@
 {
   "name": "sunvoxjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mirror of Alexander Zolotov's sunvoxjs",
   "main": "sunvox.js",
   "scripts": {
